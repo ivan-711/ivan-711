@@ -23,7 +23,7 @@ Live at [parceldesk.io](https://parceldesk.io) · Source on [GitHub](https://git
 
 I build end-to-end -- from database schemas and financial calculation engines to component systems and data visualization. My stack is Python + TypeScript: the backend runs FastAPI with PostgreSQL and Alembic migrations; the frontend runs React with strict TypeScript, Recharts, and Framer Motion. AI features use Anthropic Claude with streaming via SSE, domain-specific prompt engineering, and structured output validation. Every feature ships with automated tests and CI checks.
 
-I also co-own [Legacy Pro Painting LLC](https://legacypropainting.com) -- I build things in code and in person.
+I also co-own [Legacy Pro Painting LLC](https://legacypropaintingllc.com) -- I build things in code and in person.
 
 Bilingual (English/Spanish, conversational French) · Based in Wisconsin
 
