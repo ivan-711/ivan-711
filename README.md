@@ -1,4 +1,4 @@
-# Ivan Flores
+# Christian Ivan Flores
 
 Real estate investors make six-figure decisions with spreadsheets and gut instinct. I'm building the software that replaces that workflow.
 
