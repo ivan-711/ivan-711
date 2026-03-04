@@ -15,7 +15,7 @@ Real estate investors make six-figure decisions with spreadsheets and gut instin
 - AI document processing + real-time financial chat via Claude
 - Kanban deal pipeline with drag-and-drop
 - Branded PDF report generation
-- 44+ automated tests, CI pipeline
+- 76 automated tests, CI pipeline
 
 Live at [parceldesk.io](https://parceldesk.io) · Source on [GitHub](https://github.com/ivan-711/parcel-platform)
 
